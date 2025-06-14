@@ -14,7 +14,7 @@ You can either define your own ranges and omit MemoryCellInit(I), or allow Memor
 
 ## Defining a memory cell variable
 
-For example, my Vulcan VI I have defined the following:
+For example, my Vulcan IV I have defined the following:
 
 ```
 local targetVolume = { 
